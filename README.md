@@ -80,6 +80,4 @@ PRs welcome! Some ideas for expanding the skill:
 
 MIT
 
----
 
-Built with ❤️ for the ODM community. Created using [Claude Code Skills](https://docs.anthropic.com/en/docs/claude-code).
